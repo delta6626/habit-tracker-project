@@ -15,7 +15,7 @@ A command line habit tracking application built with Python. The application all
 
 ## Requirements
 
-* Python 3.10 or later (developed and tested on Python 3.13)
+* Python 3.13 is preferred. Python 3.10 or later should work fine
 * No external dependencies are required
 
 ## Setup
