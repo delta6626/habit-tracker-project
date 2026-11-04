@@ -90,6 +90,8 @@ If the demo data has been deleted or modified and you want to restore it to its 
 
 The original demo data will then be loaded the next time the application is started.
 
+**Note: The config.json file is not created until the application has run for the first time.**
+
 ## Running the Tests
 
 **Important:** Run the unit tests from the project root to ensure there are no import errors.
