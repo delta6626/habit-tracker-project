@@ -1,6 +1,6 @@
 # Habit Tracker
 
-A command line habit tracking application built with Python. The application allows users to create, manage, and analyse personal habits with daily or weekly periodicity.
+A command line habit tracking application built with Python. The application allows users to create, manage, and analyze personal habits with daily or weekly periodicity.
 
 ## Features
 
@@ -8,7 +8,7 @@ A command line habit tracking application built with Python. The application all
 * Daily and weekly habit tracking
 * View habit details and group habits by periodicity
 * Track completion streaks
-* Analyse the longest streaks across all or specific habits
+* Analyze the longest streaks across all or specific habits
 * Persistent storage using SQLite
 * Predefined demo data with four weeks of example tracking data
 * Unit tests for core habit behaviour and analytics
@@ -37,7 +37,7 @@ Run the application from the project root:
 python main.py
 ```
 
-The application opens the command line menu, where users can create, complete, delete, and analyse habits.
+The application opens the command line menu, where users can create, complete, delete, and analyze habits.
 
 ## Usage
 
